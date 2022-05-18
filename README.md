@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phembi
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning dart
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on mobile application development and website development 
 - 📫 you can reach me on irenepitiko@gmail.com
 
